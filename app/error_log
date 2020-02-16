@@ -1,0 +1,121 @@
+[08-Jan-2019 21:54:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 21:54:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 21:56:09 UTC] PHP Parse error:  syntax error, unexpected '160.153' (T_DNUMBER) in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 16
+[08-Jan-2019 21:56:10 UTC] PHP Parse error:  syntax error, unexpected '160.153' (T_DNUMBER) in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 16
+[08-Jan-2019 21:57:58 UTC] PHP Parse error:  syntax error, unexpected '160.153' (T_DNUMBER) in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 16
+[08-Jan-2019 21:58:22 UTC] PHP Parse error:  syntax error, unexpected '160.153' (T_DNUMBER) in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 16
+[08-Jan-2019 21:58:31 UTC] PHP Parse error:  syntax error, unexpected '160.153' (T_DNUMBER) in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 16
+[08-Jan-2019 21:58:32 UTC] PHP Parse error:  syntax error, unexpected '160.153' (T_DNUMBER) in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 16
+[08-Jan-2019 21:59:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:02:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:02:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:02:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:05:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:08:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:16:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:24:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:27:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:27:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:40:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:41:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:41:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:46:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:47:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:47:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:47:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:47:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:47:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:48:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'erantzurGB'@'n3plcpnl0291.prod.ams3.secureserver.net' to database 'landing_page_eran' in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host=160....', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
+[08-Jan-2019 22:49:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2005] Unknown MySQL server host ''160.153.156.41'' (0) in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php:17
+Stack trace:
+#0 /home/uzfghb03z521/public_html/sd/landing-page/app/server.php(17): PDO->__construct('mysql:host='160...', 'erantzurGB', 'Tz1234ur')
+#1 {main}
+  thrown in /home/uzfghb03z521/public_html/sd/landing-page/app/server.php on line 17
